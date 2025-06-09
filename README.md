@@ -1,7 +1,8 @@
-# ruby_csv_parser
-Parse and analyse a csv file in ruby with some basic stdev functions
+# judgment-anomaly-analyzer
 
-The `csv` to analyze are hardcoded in the main.rb.
+Parse and analyze raw competition judgments to detect anomalies based on defined criteria and generate detailed reports.
+
+The `main.rb` define the input and output folders.
 
 ```
 bundle install
