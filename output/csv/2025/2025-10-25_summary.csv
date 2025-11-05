@@ -1,0 +1,27 @@
+Summary
+
+Number of anomalies per part,nb of anomalies, nb of analysis made,percentage of anomalies
+Dancing part,30,678,4%
+Acrobatic part,2,276,1%
+
+Number of anomalies per criteria,nb of anomalies, nb of analysis made,percentage of anomalies
+Dance Figure (DF),13,113,12%
+Choregraphy (CO),6,113,5%
+Footwork man (FM),4,113,4%
+Footwork woman (FW),3,113,3%
+Big mistakes (BM),2,113,2%
+Small mistakes (SM),2,113,2%
+Acrobatic figure (Acro 1 to 6),2,276,1%
+
+Number of anomalies per group,nb of anomalies, nb of analysis made,percentage of anomalies
+Juniors,9,168,5%
+Adults,19,624,3%
+Formations,4,162,2%
+
+Top 5 anomalies
+Rock'n'Roll-Main Class Contact Style,DF,First round,Heat 1 Stn. 36,[13.75 3.75 5.0]
+Rock'n'Roll-Juveniles,bm,First round,Heat 1 Stn. 57,[-30.0 -30.0 -10.0 -30.0 0.0 -30.0]
+Rock'n'Roll-Main Class Free Style,DF,First round,Heat 2 Stn. 86,[11.25 12.5 5.0]
+Rock'n'Roll-Main Class Start,DF,Final,Heat 1 Stn. 226,[7.5 12.5 15.0]
+Rock'n'Roll-Main Class Contact Style,DF,First round,Heat 2 Stn. 430,[16.25 12.5 8.75]
+
