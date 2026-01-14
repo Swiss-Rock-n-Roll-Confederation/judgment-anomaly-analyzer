@@ -3,6 +3,9 @@ name: Generate and Release Reports
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-release:
     runs-on: ubuntu-latest
