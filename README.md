@@ -43,3 +43,27 @@ ruby csv_concatenator.rb 2025
 # Concatenate files for current year (default)
 ruby csv_concatenator.rb
 ```
+
+## GitHub Action: Release Reports
+
+The repository includes a GitHub Action that automatically generates and releases analysis reports.
+
+### Behavior
+
+1. **Detects the most recent year** from the `src/` folder (e.g., if `src/2024/` and `src/2025/` exist, it picks `2025`)
+2. **Determines the release version** using the format `{year}.{counter}` where the counter increments for each release within the same year
+3. **Runs analysis** only for the most recent year
+4. **Creates a GitHub release** with all report and summary CSV files for that year
+
+### Version Examples
+
+| src/ folders       | Existing releases    | Next release |
+|--------------------|----------------------|--------------|
+| 2024, 2025         | none                 | `2025.1`     |
+| 2024, 2025         | `2025.1`             | `2025.2`     |
+| 2024, 2025         | `2025.1`, `2025.2`   | `2025.3`     |
+| 2024, 2025, 2026   | `2025.3`             | `2026.1`     |
+
+### Usage
+
+Trigger the workflow manually from the GitHub Actions tab using "Run workflow".

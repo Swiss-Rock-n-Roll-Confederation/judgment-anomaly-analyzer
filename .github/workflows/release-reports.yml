@@ -20,58 +20,79 @@ jobs:
       - name: Install dependencies
         run: bundle install
 
-      - name: Detect year folders and run analysis
+      - name: Detect most recent year
+        id: detect-year
         run: |
-          # Find all year folders (4-digit directories)
-          YEARS=$(ls -1 src/ | grep -E '^[0-9]{4}$' | sort)
+          # Find the most recent year folder (4-digit directories)
+          LATEST_YEAR=$(ls -1 src/ | grep -E '^[0-9]{4}$' | sort -r | head -1)
 
-          echo "Found years: $YEARS"
-
-          for YEAR in $YEARS; do
-            echo "Processing year: $YEAR"
-
-            # Create output directories
-            mkdir -p ./output/csv/$YEAR
-            mkdir -p ./docs/$YEAR
-
-            # Run analysis for this year
-            ruby main.rb $YEAR
-          done
-
-      - name: Get latest competition date
-        id: get-date
-        run: |
-          # Find the most recent report file across all years
-          LATEST_FILE=$(find ./output/csv -name "*_report.csv" 2>/dev/null | sort -r | head -1)
-          if [ -n "$LATEST_FILE" ]; then
-            LATEST_DATE=$(basename "$LATEST_FILE" | sed 's/_report.csv//')
-            echo "date=$LATEST_DATE" >> $GITHUB_OUTPUT
-          else
-            echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          if [ -z "$LATEST_YEAR" ]; then
+            echo "Error: No year folders found in src/"
+            exit 1
           fi
 
-      - name: List all report files
+          echo "Most recent year: $LATEST_YEAR"
+          echo "year=$LATEST_YEAR" >> $GITHUB_OUTPUT
+
+      - name: Determine release version
+        id: version
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Files to be released:"
-          find ./output/csv -name "*.csv" | sort
+          YEAR=${{ steps.detect-year.outputs.year }}
+
+          # Get existing releases for this year and find the highest counter
+          LATEST_RELEASE=$(gh release list --limit 100 | grep -E "^${YEAR}\.[0-9]+" | head -1 | awk '{print $1}' || echo "")
+
+          if [ -z "$LATEST_RELEASE" ]; then
+            # No releases for this year yet, start at 1
+            COUNTER=1
+          else
+            # Extract the counter and increment
+            CURRENT_COUNTER=$(echo "$LATEST_RELEASE" | sed "s/${YEAR}\.//" | cut -d'.' -f1)
+            COUNTER=$((CURRENT_COUNTER + 1))
+          fi
+
+          VERSION="${YEAR}.${COUNTER}"
+          echo "Next version: $VERSION"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Run analysis for latest year
+        run: |
+          YEAR=${{ steps.detect-year.outputs.year }}
+
+          echo "Processing year: $YEAR"
+
+          # Create output directories
+          mkdir -p ./output/csv/$YEAR
+          mkdir -p ./docs/$YEAR
+
+          # Run analysis for this year only
+          ruby main.rb $YEAR
+
+      - name: List report files
+        run: |
+          YEAR=${{ steps.detect-year.outputs.year }}
+          echo "Files to be released for $YEAR:"
+          find ./output/csv/$YEAR -name "*.csv" | sort
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ steps.get-date.outputs.date }}
-          name: Competition Reports - ${{ steps.get-date.outputs.date }}
+          tag_name: ${{ steps.version.outputs.version }}
+          name: ${{ steps.version.outputs.version }}
           body: |
-            Judgment anomaly analysis reports for all competitions.
+            Judgment anomaly analysis reports for ${{ steps.detect-year.outputs.year }} competitions.
 
             ## Included Reports
-            This release contains all report and summary CSV files for all years up to ${{ steps.get-date.outputs.date }}.
+            This release contains all report and summary CSV files for ${{ steps.detect-year.outputs.year }}.
 
             ## Files
             - `*_report.csv` - Detailed anomaly data for each competition
             - `*_summary.csv` - Statistical summary per competition
           files: |
-            ./output/csv/**/*_report.csv
-            ./output/csv/**/*_summary.csv
+            ./output/csv/${{ steps.detect-year.outputs.year }}/*_report.csv
+            ./output/csv/${{ steps.detect-year.outputs.year }}/*_summary.csv
           draft: false
           prerelease: false
         env:
