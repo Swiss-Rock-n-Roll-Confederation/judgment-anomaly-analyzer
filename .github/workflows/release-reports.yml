@@ -68,7 +68,7 @@ jobs:
           mkdir -p ./docs/$YEAR
 
           # Run analysis for this year only
-          ruby main.rb $YEAR
+          bundle exec ruby main.rb $YEAR
 
       - name: List report files
         run: |
