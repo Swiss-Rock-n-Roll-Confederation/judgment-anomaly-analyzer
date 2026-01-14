@@ -2,10 +2,15 @@
 
 Parse and analyze raw competition judgments to detect anomalies based on defined criteria and generate detailed reports.
 
-The `main.rb` define the input and output folders.
+The `main.rb` accepts a year parameter to define the input and output folders.
 
-```
+```bash
 bundle install
+
+# Run analysis for a specific year
+ruby main.rb 2025
+
+# Defaults to 2025 if no year provided
 ruby main.rb
 ```
 

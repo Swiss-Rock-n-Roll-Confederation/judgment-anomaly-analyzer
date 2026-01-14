@@ -1,0 +1,78 @@
+name: Generate and Release Reports
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Detect year folders and run analysis
+        run: |
+          # Find all year folders (4-digit directories)
+          YEARS=$(ls -1 src/ | grep -E '^[0-9]{4}$' | sort)
+
+          echo "Found years: $YEARS"
+
+          for YEAR in $YEARS; do
+            echo "Processing year: $YEAR"
+
+            # Create output directories
+            mkdir -p ./output/csv/$YEAR
+            mkdir -p ./docs/$YEAR
+
+            # Run analysis for this year
+            ruby main.rb $YEAR
+          done
+
+      - name: Get latest competition date
+        id: get-date
+        run: |
+          # Find the most recent report file across all years
+          LATEST_FILE=$(find ./output/csv -name "*_report.csv" 2>/dev/null | sort -r | head -1)
+          if [ -n "$LATEST_FILE" ]; then
+            LATEST_DATE=$(basename "$LATEST_FILE" | sed 's/_report.csv//')
+            echo "date=$LATEST_DATE" >> $GITHUB_OUTPUT
+          else
+            echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: List all report files
+        run: |
+          echo "Files to be released:"
+          find ./output/csv -name "*.csv" | sort
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.get-date.outputs.date }}
+          name: Competition Reports - ${{ steps.get-date.outputs.date }}
+          body: |
+            Judgment anomaly analysis reports for all competitions.
+
+            ## Included Reports
+            This release contains all report and summary CSV files for all years up to ${{ steps.get-date.outputs.date }}.
+
+            ## Files
+            - `*_report.csv` - Detailed anomaly data for each competition
+            - `*_summary.csv` - Statistical summary per competition
+          files: |
+            ./output/csv/**/*_report.csv
+            ./output/csv/**/*_summary.csv
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
