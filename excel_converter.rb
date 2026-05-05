@@ -1,3 +1,5 @@
+ENV['BUNDLE_FORCE_RUBY_PLATFORM'] ||= 'true'
+require 'bundler/setup'
 require 'roo'
 require 'csv'
 require 'fileutils'
@@ -5,7 +7,7 @@ require 'fileutils'
 module ExcelConverter
   INPUT_FOLDER = "./input_excel"  # Where your Excel files are stored
   OUTPUT_FOLDER = "./src"         # Where to save the CSV files
-  YEAR = "2025"                   # Current year for output folder
+  YEAR = "2026"                   # Current year for output folder
 
   class Converter
     def self.run

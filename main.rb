@@ -8,7 +8,7 @@ require 'json'
 require 'ostruct'
 
 module CsvParser
-  YEAR = ARGV[0] || "2025"
+  YEAR = ARGV[0] || "2026"
   INPUT_FOLDER  = "./src/#{YEAR}"
   OUTPUT_CSV_FOLDER = "./output/csv/#{YEAR}"
   OUTPUT_HTML_FOLDER = "./docs/#{YEAR}"
