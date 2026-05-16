@@ -2,19 +2,28 @@
 
 Parse and analyze raw competition judgments to detect anomalies based on defined criteria and generate detailed reports.
 
-The `main.rb` accepts a year parameter to define the input and output folders.
+## Usage
+
+Place Excel files in `./input_excel/`, then run the full conversion and report pipeline:
 
 ```bash
 bundle install
 
-# Run analysis for a specific year
-ruby main.rb 2025
+# Convert Excel files, concatenate CSV files, and generate reports
+make
 
-# Defaults to 2025 if no year provided
-ruby main.rb
+# Run the full pipeline for a specific year
+make YEAR=2025
+
+# Run the full pipeline for every year found in input_excel/
+make all-years
 ```
 
-## Excel Converter
+By default, `make` uses the latest year found in matching Excel filenames from `input_excel/`.
+
+## Individual Scripts
+
+### Excel Converter
 
 Use `excel_converter.rb` to convert Excel files to CSV format:
 
@@ -29,7 +38,7 @@ ruby excel_converter.rb
 
 Place Excel files in `./input_excel/` folder before running.
 
-## CSV Concatenator
+### CSV Concatenator
 
 Use `csv_concatenator.rb` to concatenate CSV files by year and type:
 
@@ -42,6 +51,18 @@ ruby csv_concatenator.rb 2025
 
 # Concatenate files for current year (default)
 ruby csv_concatenator.rb
+```
+
+### Report Generator
+
+Use `main.rb` to generate report CSV and HTML files for one year:
+
+```bash
+# Run analysis for a specific year
+ruby main.rb 2025
+
+# Defaults to 2026 if no year is provided
+ruby main.rb
 ```
 
 ## GitHub Action: Release Reports

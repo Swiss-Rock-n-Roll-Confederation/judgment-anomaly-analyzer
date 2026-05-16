@@ -4,6 +4,7 @@ require './module/model/analyse.rb'
 require './module/parser.rb'
 require './module/analyzer.rb'
 require './module/utils/translator.rb'
+require 'fileutils'
 require 'json'
 require 'ostruct'
 
@@ -19,10 +20,16 @@ module CsvParser
     end
 
     def run
+      ensure_output_directories_exist
       process_files
     end
 
     private
+
+    def ensure_output_directories_exist
+      FileUtils.mkdir_p(OUTPUT_CSV_FOLDER)
+      FileUtils.mkdir_p(OUTPUT_HTML_FOLDER)
+    end
 
     def process_files
       acro_files  = Dir.glob(File.join(INPUT_FOLDER, "*_acro.csv"))
