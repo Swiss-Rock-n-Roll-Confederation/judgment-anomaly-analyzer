@@ -21,7 +21,7 @@ Use `excel_converter.rb` to convert Excel files to CSV format:
 - Converts `YYYY-MM-DD_Form_analiza.xlsx` → `YYYY-MM-DD_dance.csv`
 - Converts `YYYY-MM-DD_Form_acro_analiza.xlsx` → `YYYY-MM-DD_acro.csv`
 - Extracts data from the 'data' sheet in Excel files
-- Saves output to `./src/YYYY/` folder
+- Saves output to the `./src/YYYY/` folder matching the year in the Excel filename prefix
 
 ```bash
 ruby excel_converter.rb

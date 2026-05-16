@@ -4,7 +4,7 @@ require_relative '../../excel_converter'
 
 describe ExcelConverter::Converter do
   let(:input_folder) { './input_excel' }
-  let(:output_folder) { File.join('./src', ExcelConverter::YEAR) }
+  let(:output_folder) { File.join('./src', '2025') }
   let(:test_excel_file) { File.join(input_folder, '2025-07-16_Form_analiza.xlsx') }
   let(:expected_csv_file) { File.join(output_folder, '2025-07-16_dance.csv') }
 

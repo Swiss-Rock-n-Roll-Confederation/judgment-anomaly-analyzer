@@ -7,7 +7,6 @@ require 'fileutils'
 module ExcelConverter
   INPUT_FOLDER = "./input_excel"  # Where your Excel files are stored
   OUTPUT_FOLDER = "./src"         # Where to save the CSV files
-  YEAR = "2026"                   # Current year for output folder
 
   class Converter
     def self.run
@@ -23,8 +22,7 @@ module ExcelConverter
 
     def ensure_directories_exist
       FileUtils.mkdir_p(INPUT_FOLDER) unless Dir.exist?(INPUT_FOLDER)
-      output_folder = File.join(OUTPUT_FOLDER, YEAR)
-      FileUtils.mkdir_p(output_folder) unless Dir.exist?(output_folder)
+      FileUtils.mkdir_p(OUTPUT_FOLDER) unless Dir.exist?(OUTPUT_FOLDER)
     end
 
     def process_excel_files
@@ -66,7 +64,9 @@ module ExcelConverter
         excel.default_sheet = "data"
         
         # Output path
-        output_path = File.join(OUTPUT_FOLDER, YEAR, "#{date}_#{output_type}.csv")
+        output_folder = File.join(OUTPUT_FOLDER, date[0, 4])
+        FileUtils.mkdir_p(output_folder)
+        output_path = File.join(output_folder, "#{date}_#{output_type}.csv")
         
         # Convert to CSV
         CSV.open(output_path, "wb") do |csv|
