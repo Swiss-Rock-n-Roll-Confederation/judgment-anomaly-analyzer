@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analysis Summary - 2026-overall</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/stacktable.js/1.0.3/stacktable.min.js"></script>
+</head>
+<body>
+<h1>Analysis Summary - 2026-overall</h1>
+
+<div class="section">
+  <h2>Overview</h2>
+  <div class="summary-grid" style="margin-bottom: 20px;">
+    <div class="summary-card">
+      <h3>Total Anomalies</h3>
+      <div class="value" id="totalAnomalies">62 / 1290</div>
+      <div class="progress-bar">
+        <div class="progress-bar-fill" style="background-color: green; width: 5%;"></div>
+      </div>
+      <p>5% anomalies</p>
+    </div>
+  </div>
+
+  <div class="summary-grid" style="margin-top: 10px;">
+    <div class="summary-card">
+      <h3>Dancing Part Anomalies</h3>
+      <div class="value" id="danceAnomalies">48 / 1056</div>
+      <div class="progress-bar">
+        <div class="progress-bar-fill" style="background-color: green; width: 5%;"></div>
+      </div>
+      <p>5% anomalies</p>
+    </div>
+    
+    <div class="summary-card">
+      <h3>Acrobatic Part Anomalies</h3>
+      <div class="value" id="acroAnomalies">14 / 234</div>
+      <div class="progress-bar">
+        <div class="progress-bar-fill" style="background-color: green; width: 6%;"></div>
+      </div>
+      <p>6% anomalies</p>
+    </div>
+  </div>
+  
+</div>
+
+<div class="section">
+  <h2>Anomalies per Criteria</h2>
+  <table class="uniform-table">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th>Number of Anomalies</th>
+      <th>Analyses Made</th>
+      <th>Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+  <td>Footwork woman (FW)</td>
+  <td>12</td>
+  <td>176</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 7%;"></div>
+    </div>
+    7%
+  </td>
+</tr>
+<tr>
+  <td>Choregraphy (CO)</td>
+  <td>10</td>
+  <td>176</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 6%;"></div>
+    </div>
+    6%
+  </td>
+</tr>
+<tr>
+  <td>Acrobatic figure (Acro 1 to 6)</td>
+  <td>14</td>
+  <td>234</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 6%;"></div>
+    </div>
+    6%
+  </td>
+</tr>
+<tr>
+  <td>Dance Figure (DF)</td>
+  <td>8</td>
+  <td>176</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 5%;"></div>
+    </div>
+    5%
+  </td>
+</tr>
+<tr>
+  <td>Footwork man (FM)</td>
+  <td>8</td>
+  <td>176</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 5%;"></div>
+    </div>
+    5%
+  </td>
+</tr>
+<tr>
+  <td>Small mistakes (SM)</td>
+  <td>5</td>
+  <td>176</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 3%;"></div>
+    </div>
+    3%
+  </td>
+</tr>
+<tr>
+  <td>Big mistakes (BM)</td>
+  <td>5</td>
+  <td>176</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 3%;"></div>
+    </div>
+    3%
+  </td>
+</tr>
+
+  </tbody>
+</table>
+
+</div>
+
+<div class="section">
+  <h2>Anomalies per Group</h2>
+  <table class="uniform-table">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+    <col style="width: 25%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Group</th>
+      <th>Number of Anomalies</th>
+      <th>Analyses Made</th>
+      <th>Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+  <td>Juniors</td>
+  <td>24</td>
+  <td>354</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 7%;"></div>
+    </div>
+    7%
+  </td>
+</tr>
+<tr>
+  <td>Adults</td>
+  <td>27</td>
+  <td>570</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 5%;"></div>
+    </div>
+    5%
+  </td>
+</tr>
+<tr>
+  <td>Formations</td>
+  <td>11</td>
+  <td>366</td>
+  <td>
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="background-color: green; width: 3%;"></div>
+    </div>
+    3%
+  </td>
+</tr>
+
+  </tbody>
+</table>
+
+</div>
+
+
+  <script src="../assets/scripts.js"></script>
+  <script>
+  $(document).ready(function() {
+    $('.uniform-table').each(function() {
+      $(this).stacktable({myClass:'stacked'});
+    });
+  });
+</script>
+</body>
+</html>
