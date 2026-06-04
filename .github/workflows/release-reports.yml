@@ -2,6 +2,9 @@ name: Generate and Release Reports
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -68,7 +71,7 @@ jobs:
 
           # Create output directories
           mkdir -p ./output/csv/$YEAR
-          mkdir -p ./docs/$YEAR
+          mkdir -p ./bk-docs/$YEAR
 
           # Run analysis for this year only
           bundle exec ruby main.rb $YEAR
