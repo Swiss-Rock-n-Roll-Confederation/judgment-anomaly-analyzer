@@ -1,0 +1,1113 @@
+rt_id,Judge,Type,Category,Round,Heat,Stn,stanica,FW,FM,DF,CO,sm,bm,turnir,krit,val1,val2,val3,Acro 1,Acro 2,Acro 3,Acro 4,Acro 5,Acro 6,Acro 7,Acro 8
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,1,105,1,-35,7,6,6.75,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,1,105,1,-35,7,6,6.75,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,1,105,1,-35,7,6,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,2,158,1,-35,8,9,7.5,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,2,158,1,-35,8,9,7.5,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,2,158,1,-35,8,9,7.5,-2,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,3,294,1,-35,7,7,6,-4,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,3,294,1,-35,7,7,6,-4,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,3,294,1,-35,7,7,6,-4,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,4,174,1,-25,10,11,9,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,4,174,1,-25,10,11,9,0,0,171,FM,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,4,174,1,-25,10,11,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,5,295,1,-50,6,6,5.25,-4,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,5,295,1,-50,6,6,5.25,-4,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,5,295,1,-50,6,6,5.25,-4,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,6,281,1,-25,10,10,7.5,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,6,281,1,-25,10,10,7.5,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,6,281,1,-25,10,10,7.5,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,7,151,1,-35,8,9,8.25,-2,0,171,DF,1.5,1,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,7,151,1,-35,8,9,8.25,-2,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,7,151,1,-35,8,9,8.25,-2,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,8,115,1,-25,11,11,9,-2,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,8,115,1,-25,11,11,9,-2,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2044,A,,Rock'n'Roll-Small Formation Juniors,First round,8,115,1,-25,11,11,9,-2,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,1,105,2,-35,9,10,6,-2,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,1,105,2,-35,9,10,6,-2,0,171,FM,1,1.5,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,1,105,2,-35,9,10,6,-2,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,2,158,2,-35,7,8,4.5,-4,0,171,DF,1,1,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,2,158,2,-35,7,8,4.5,-4,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,2,158,2,-35,7,8,4.5,-4,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,3,294,2,-50,7,8,4.5,-6,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,3,294,2,-50,7,8,4.5,-6,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,3,294,2,-50,7,8,4.5,-6,0,171,FM,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,4,174,2,-25,10,12,7.5,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,4,174,2,-25,10,12,7.5,0,0,171,FM,1,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,4,174,2,-25,10,12,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,5,295,2,-50,6,7,5.25,-4,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,5,295,2,-50,6,7,5.25,-4,0,171,FM,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,5,295,2,-50,6,7,5.25,-4,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,6,281,2,-15,11,12,8.25,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,6,281,2,-15,11,12,8.25,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,6,281,2,-15,11,12,8.25,0,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,7,151,2,-35,8,8,6.75,-4,0,171,CO,1,1.5,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,7,151,2,-35,8,8,6.75,-4,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,7,151,2,-35,8,8,6.75,-4,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,8,115,2,-25,9,11,9,-2,-30,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,8,115,2,-25,9,11,9,-2,-30,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,C,,Rock'n'Roll-Small Formation Juniors,First round,8,115,2,-25,9,11,9,-2,-30,171,FM,1,2,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,1,105,3,-50,7,10,7.5,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,1,105,3,-50,7,10,7.5,-2,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,1,105,3,-50,7,10,7.5,-2,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,2,158,3,-50,10,10,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,2,158,3,-50,10,10,7.5,0,0,171,FM,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,2,158,3,-50,10,10,7.5,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,3,294,3,-50,8,6,4.5,-10,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,3,294,3,-50,8,6,4.5,-10,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,3,294,3,-50,8,6,4.5,-10,0,171,FM,1,1,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,4,174,3,-35,11,10,9,-4,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,4,174,3,-35,11,10,9,-4,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,4,174,3,-35,11,10,9,-4,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,5,295,3,-50,8,7,5.25,-2,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,5,295,3,-50,8,7,5.25,-2,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,5,295,3,-50,8,7,5.25,-2,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,6,281,3,-25,11,11,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,6,281,3,-25,11,11,9,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,6,281,3,-25,11,11,9,0,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,7,151,3,-35,9,9,7.5,-4,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,7,151,3,-35,9,9,7.5,-4,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,7,151,3,-35,9,9,7.5,-4,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,8,115,3,-35,10,11,8.25,-2,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,8,115,3,-35,10,11,8.25,-2,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2044,D,,Rock'n'Roll-Small Formation Juniors,First round,8,115,3,-35,10,11,8.25,-2,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,1,105,4,-35,7,6,5.25,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,1,105,4,-35,7,6,5.25,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,1,105,4,-35,7,6,5.25,0,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,2,158,4,-50,9,9,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,2,158,4,-50,9,9,6,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,2,158,4,-50,9,9,6,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,3,294,4,-50,6,5,4.5,-6,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,3,294,4,-50,6,5,4.5,-6,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,3,294,4,-50,6,5,4.5,-6,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,4,174,4,-35,10,8,7.5,-2,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,4,174,4,-35,10,8,7.5,-2,0,171,DF,1,2,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,4,174,4,-35,10,8,7.5,-2,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,5,295,4,-75,6,6,4.5,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,5,295,4,-75,6,6,4.5,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,5,295,4,-75,6,6,4.5,-2,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,6,281,4,-25,12,10,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,6,281,4,-25,12,10,7.5,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,6,281,4,-25,12,10,7.5,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,7,151,4,-35,8,6,5.25,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,7,151,4,-35,8,6,5.25,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,7,151,4,-35,8,6,5.25,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,8,115,4,-25,9,8,6,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,8,115,4,-25,9,8,6,-2,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2044,F,,Rock'n'Roll-Small Formation Juniors,First round,8,115,4,-25,9,8,6,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,1,105,5,-50,4,4,4.5,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,1,105,5,-50,4,4,4.5,0,0,171,DF,1,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,1,105,5,-50,4,4,4.5,0,0,171,FM,0.5,0.5,1,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,2,158,5,-75,4,5,3,0,0,171,CO,1,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,2,158,5,-75,4,5,3,0,0,171,DF,1,1,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,2,158,5,-75,4,5,3,0,0,171,FM,1,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,3,294,5,-100,2,2,2.25,-2,0,171,FM,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,3,294,5,-100,2,2,2.25,-2,0,171,CO,0.5,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,3,294,5,-100,2,2,2.25,-2,0,171,DF,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,4,174,5,-35,10,11,8.25,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,4,174,5,-35,10,11,8.25,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,4,174,5,-35,10,11,8.25,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,5,295,5,-75,3,3,3.75,0,0,171,CO,0.5,1,1,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,5,295,5,-75,3,3,3.75,0,0,171,DF,0.5,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,5,295,5,-75,3,3,3.75,0,0,171,FM,0.5,0.5,0.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,6,281,5,-35,9,12,8.25,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,6,281,5,-35,9,12,8.25,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,6,281,5,-35,9,12,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,7,151,5,-75,6,6,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,7,151,5,-75,6,6,6,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,7,151,5,-75,6,6,6,0,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,8,115,5,-35,9,10,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,8,115,5,-35,9,10,6.75,-2,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2044,G,,Rock'n'Roll-Small Formation Juniors,First round,8,115,5,-35,9,10,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,1,313,1,-50,6,6,4.5,-6,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,1,313,1,-50,6,6,4.5,-6,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,1,313,1,-50,6,6,4.5,-6,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,2,175,1,-35,10,10,8.25,0,0,171,FM,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,2,175,1,-35,10,10,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,2,175,1,-35,10,10,8.25,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,3,65,1,-25,11,10,8.25,-4,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,3,65,1,-25,11,10,8.25,-4,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,3,65,1,-25,11,10,8.25,-4,0,171,FM,2,2,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,4,303,1,-35,7,8,7.5,-8,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,4,303,1,-35,7,8,7.5,-8,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,4,303,1,-35,7,8,7.5,-8,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,5,144,1,-25,11,11,9,0,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,5,144,1,-25,11,11,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,5,144,1,-25,11,11,9,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,6,67,1,-25,10,10,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,6,67,1,-25,10,10,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,A,,Rock'n'Roll-Formation Juniors,Final,6,67,1,-25,10,10,9,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,1,313,2,-35,6,8,4.5,-16,0,171,FM,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,1,313,2,-35,6,8,4.5,-16,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,1,313,2,-35,6,8,4.5,-16,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,2,175,2,-35,7,8,6.75,-4,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,2,175,2,-35,7,8,6.75,-4,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,2,175,2,-35,7,8,6.75,-4,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,3,65,2,-15,12,11,11.25,-2,0,171,CO,2,2.5,2,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,3,65,2,-15,12,11,11.25,-2,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,3,65,2,-15,12,11,11.25,-2,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,4,303,2,-35,7,8,4.5,-10,0,171,CO,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,4,303,2,-35,7,8,4.5,-10,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,4,303,2,-35,7,8,4.5,-10,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,5,144,2,-25,11,10,8.25,-4,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,5,144,2,-25,11,10,8.25,-4,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,5,144,2,-25,11,10,8.25,-4,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,6,67,2,-25,8,9,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,6,67,2,-25,8,9,6,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2045,C,,Rock'n'Roll-Formation Juniors,Final,6,67,2,-25,8,9,6,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,1,313,3,-50,9,8,6.75,-6,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,1,313,3,-50,9,8,6.75,-6,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,1,313,3,-50,9,8,6.75,-6,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,2,175,3,-25,12,12,7.5,-2,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,2,175,3,-25,12,12,7.5,-2,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,2,175,3,-25,12,12,7.5,-2,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,3,65,3,-15,15,12,9,-2,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,3,65,3,-15,15,12,9,-2,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,3,65,3,-15,15,12,9,-2,0,171,FM,2.5,2,2.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,4,303,3,-35,8,9,7.5,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,4,303,3,-35,8,9,7.5,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,4,303,3,-35,8,9,7.5,-2,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,5,144,3,-25,11,11,8.25,-4,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,5,144,3,-25,11,11,8.25,-4,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,5,144,3,-25,11,11,8.25,-4,0,171,FM,2,2,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,6,67,3,-25,9,9,7.5,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,6,67,3,-25,9,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,D,,Rock'n'Roll-Formation Juniors,Final,6,67,3,-25,9,9,7.5,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,1,313,4,-50,5,6,4.5,-8,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,1,313,4,-50,5,6,4.5,-8,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,1,313,4,-50,5,6,4.5,-8,0,171,FM,0.5,1,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,2,175,4,-25,8,8,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,2,175,4,-25,8,8,6.75,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,2,175,4,-25,8,8,6.75,0,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,3,65,4,-15,11,10,9,0,0,171,CO,2,2.5,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,3,65,4,-15,11,10,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,3,65,4,-15,11,10,9,0,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,4,303,4,-25,7,8,6,-6,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,4,303,4,-25,7,8,6,-6,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,4,303,4,-25,7,8,6,-6,0,171,FM,1.5,1,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,5,144,4,-25,11,9,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,5,144,4,-25,11,9,7.5,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,5,144,4,-25,11,9,7.5,0,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,6,67,4,-25,7,7,6,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,6,67,4,-25,7,7,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2045,F,,Rock'n'Roll-Formation Juniors,Final,6,67,4,-25,7,7,6,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,1,313,5,-100,2,2,1.5,-4,0,171,FM,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,1,313,5,-100,2,2,1.5,-4,0,171,CO,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,1,313,5,-100,2,2,1.5,-4,0,171,DF,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,2,175,5,-35,10,11,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,2,175,5,-35,10,11,8.25,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,2,175,5,-35,10,11,8.25,0,0,171,FM,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,3,65,5,-15,12,12,8.25,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,3,65,5,-15,12,12,8.25,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,3,65,5,-15,12,12,8.25,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,4,303,5,-50,6,6,4.5,-2,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,4,303,5,-50,6,6,4.5,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,4,303,5,-50,6,6,4.5,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,5,144,5,-35,9,9,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,5,144,5,-35,9,9,6.75,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,5,144,5,-35,9,9,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,6,67,5,-50,8,8,6.75,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,6,67,5,-50,8,8,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2045,G,,Rock'n'Roll-Formation Juniors,Final,6,67,5,-50,8,8,6.75,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,A,,Rock'n'Roll-Kids,Final,1,66,1,-25,6.5,10,8,0,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2046,A,,Rock'n'Roll-Kids,Final,1,66,1,-25,6.5,10,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2046,A,,Rock'n'Roll-Kids,Final,2,242,1,-25,6.5,12.5,9,0,0,171,CO,2,1.5,1,0,0,0,0,0,0,-1,-1
+2046,A,,Rock'n'Roll-Kids,Final,2,242,1,-25,6.5,12.5,9,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,A,,Rock'n'Roll-Kids,Final,3,131,1,-35,5,10,9,0,0,171,CO,2,1.5,1,0,0,0,0,0,0,-1,-1
+2046,A,,Rock'n'Roll-Kids,Final,3,131,1,-35,5,10,9,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2046,B,,Rock'n'Roll-Kids,Final,1,66,2,-50,6.5,6.25,6,0,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2046,B,,Rock'n'Roll-Kids,Final,1,66,2,-50,6.5,6.25,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2046,B,,Rock'n'Roll-Kids,Final,2,242,2,-35,5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2046,B,,Rock'n'Roll-Kids,Final,2,242,2,-35,5,7.5,6,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2046,B,,Rock'n'Roll-Kids,Final,3,131,2,-35,2.5,6.25,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2046,B,,Rock'n'Roll-Kids,Final,3,131,2,-35,2.5,6.25,6,-2,0,171,DF,0.5,0.5,1.5,0,0,0,0,0,0,-1,-1
+2046,C,,Rock'n'Roll-Kids,Final,1,66,3,-35,7.5,12.5,10,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,C,,Rock'n'Roll-Kids,Final,1,66,3,-35,7.5,12.5,10,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2046,C,,Rock'n'Roll-Kids,Final,2,242,3,-35,6.5,11.25,9,0,0,171,CO,1,2,1.5,0,0,0,0,0,0,-1,-1
+2046,C,,Rock'n'Roll-Kids,Final,2,242,3,-35,6.5,11.25,9,0,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2046,C,,Rock'n'Roll-Kids,Final,3,131,3,-35,5,10,7,-2,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2046,C,,Rock'n'Roll-Kids,Final,3,131,3,-35,5,10,7,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2046,D,,Rock'n'Roll-Kids,Final,1,66,4,-25,6.5,12.5,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,D,,Rock'n'Roll-Kids,Final,1,66,4,-25,6.5,12.5,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2046,D,,Rock'n'Roll-Kids,Final,2,242,4,-35,6.5,13.75,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,D,,Rock'n'Roll-Kids,Final,2,242,4,-35,6.5,13.75,9,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2046,D,,Rock'n'Roll-Kids,Final,3,131,4,-35,5,12.5,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,D,,Rock'n'Roll-Kids,Final,3,131,4,-35,5,12.5,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2046,E,,Rock'n'Roll-Kids,Final,1,66,5,-50,5,11.25,8,0,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2046,E,,Rock'n'Roll-Kids,Final,1,66,5,-50,5,11.25,8,0,0,171,CO,1.5,2,0.5,0,0,0,0,0,0,-1,-1
+2046,E,,Rock'n'Roll-Kids,Final,2,242,5,-35,6.5,12.5,9,0,0,171,CO,2,2,0.5,0,0,0,0,0,0,-1,-1
+2046,E,,Rock'n'Roll-Kids,Final,2,242,5,-35,6.5,12.5,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2046,E,,Rock'n'Roll-Kids,Final,3,131,5,-35,2.5,10,7,-2,0,171,CO,1,2,0.5,0,0,0,0,0,0,-1,-1
+2046,E,,Rock'n'Roll-Kids,Final,3,131,5,-35,2.5,10,7,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2046,F,,Rock'n'Roll-Kids,Final,1,66,6,-35,5,8.75,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2046,F,,Rock'n'Roll-Kids,Final,1,66,6,-35,5,8.75,7,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2046,F,,Rock'n'Roll-Kids,Final,2,242,6,-25,5,8.75,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2046,F,,Rock'n'Roll-Kids,Final,2,242,6,-25,5,8.75,9,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2046,F,,Rock'n'Roll-Kids,Final,3,131,6,-35,6.5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2046,F,,Rock'n'Roll-Kids,Final,3,131,6,-35,6.5,7.5,6,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,1,6,1,-35,6.5,11.25,9,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,1,277,1,-50,5,8.75,7,-2,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,1,277,1,-50,5,8.75,7,-2,0,171,DF,1.5,1,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,1,6,1,-35,6.5,11.25,9,-2,0,171,CO,2,1.5,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,2,279,1,-35,6.5,12.5,10,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,2,114,1,-35,6.5,11.25,10,0,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,2,114,1,-35,6.5,11.25,10,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,2,279,1,-35,6.5,12.5,10,0,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,3,350,1,-35,6.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,3,350,1,-35,6.5,11.25,9,0,0,171,CO,2,1.5,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,3,276,1,-35,5,10,8,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,3,276,1,-35,5,10,8,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,4,293,1,-25,6.5,13.75,10,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,4,218,1,-35,5,10,8,-4,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,4,218,1,-35,5,10,8,-4,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,4,293,1,-25,6.5,13.75,10,0,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,5,290,1,-35,6.5,11.25,8,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,5,290,1,-35,6.5,11.25,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,5,289,1,-25,6.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,A,,Rock'n'Roll-Beginners,First round,5,289,1,-25,6.5,11.25,9,0,0,171,CO,2,1.5,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,1,6,2,-50,5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,1,6,2,-50,5,7.5,6,0,0,171,DF,0.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,1,277,2,-50,2.5,7.5,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,1,277,2,-50,2.5,7.5,6,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,2,114,2,-35,6.5,10,7,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,2,279,2,-50,5,7.5,7,0,-10,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,2,114,2,-35,6.5,10,7,0,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,2,279,2,-50,5,7.5,7,0,-10,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,3,350,2,-35,5,7.5,6,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,3,276,2,-50,2.5,5,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,3,276,2,-50,2.5,5,6,-2,0,171,DF,0.5,0.5,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,3,350,2,-35,5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,4,293,2,-35,5,10,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,4,293,2,-35,5,10,6,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,4,218,2,-50,5,6.25,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,4,218,2,-50,5,6.25,6,0,0,171,DF,1,0.5,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,5,289,2,-35,6.5,8.75,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,5,289,2,-35,6.5,8.75,8,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,5,290,2,-35,6.5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,B,,Rock'n'Roll-Beginners,First round,5,290,2,-35,6.5,7.5,6,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,1,277,3,-35,6.5,8.75,8,-4,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,1,6,3,-35,6.5,11.25,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,1,6,3,-35,6.5,11.25,8,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,1,277,3,-35,6.5,8.75,8,-4,0,171,CO,1,2,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,2,279,3,-25,6.5,11.25,7,0,-10,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,2,279,3,-25,6.5,11.25,7,0,-10,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,2,114,3,-35,6.5,10,7,0,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,2,114,3,-35,6.5,10,7,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,3,276,3,-35,6.5,6.25,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,3,276,3,-35,6.5,6.25,6,-2,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,3,350,3,-25,6.5,11.25,7,0,0,171,CO,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,3,350,3,-25,6.5,11.25,7,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,4,293,3,-35,5,8.75,7,-2,0,171,CO,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,4,293,3,-35,5,8.75,7,-2,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,4,218,3,-35,5,10,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,4,218,3,-35,5,10,7,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,5,289,3,-35,7.5,12.5,8,0,0,171,CO,1,2,1,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,5,289,3,-35,7.5,12.5,8,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,5,290,3,-35,6.5,11.25,11,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2047,C,,Rock'n'Roll-Beginners,First round,5,290,3,-35,6.5,11.25,11,0,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,1,6,4,-50,5,10,9,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,1,277,4,-35,6.5,11.25,9,-4,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,1,6,4,-50,5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,1,277,4,-35,6.5,11.25,9,-4,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,2,114,4,-35,5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,2,114,4,-35,5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,2,279,4,-50,5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,2,279,4,-50,5,10,9,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,3,350,4,-50,5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,3,350,4,-50,5,10,9,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,3,276,4,-50,5,10,9,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,3,276,4,-50,5,10,9,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,4,218,4,-50,5,10,9,-4,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,4,218,4,-50,5,10,9,-4,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,4,293,4,-35,5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,4,293,4,-35,5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,5,289,4,-50,6.5,12.5,9,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,5,290,4,-50,6.5,11.25,9,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,5,289,4,-50,6.5,12.5,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,D,,Rock'n'Roll-Beginners,First round,5,290,4,-50,6.5,11.25,9,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,1,6,5,-75,2.5,7.5,4,0,0,171,CO,0.5,1,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,1,6,5,-75,2.5,7.5,4,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,1,277,5,-50,5,10,7,-2,0,171,CO,1.5,1.5,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,1,277,5,-50,5,10,7,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,2,114,5,-35,5,13.75,7,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,2,279,5,-35,6.5,7.5,6,0,0,171,CO,1,1.5,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,2,114,5,-35,5,13.75,7,0,0,171,CO,1.5,1.5,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,2,279,5,-35,6.5,7.5,6,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,3,276,5,-50,2.5,10,8,-2,0,171,CO,1.5,2,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,3,276,5,-50,2.5,10,8,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,3,350,5,-35,5,7.5,6,0,0,171,CO,1,1.5,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,3,350,5,-35,5,7.5,6,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,4,218,5,-50,2.5,8.75,6,-2,0,171,DF,1.5,1,1,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,4,293,5,-35,5,13.75,9,0,0,171,CO,2,2,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,4,218,5,-50,2.5,8.75,6,-2,0,171,CO,1,1.5,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,4,293,5,-35,5,13.75,9,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,5,289,5,-35,5,12.5,7,0,0,171,CO,1,2,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,5,289,5,-35,5,12.5,7,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,5,290,5,-50,5,8.75,7,0,0,171,CO,1.5,1.5,0.5,0,0,0,0,0,0,-1,-1
+2047,E,,Rock'n'Roll-Beginners,First round,5,290,5,-50,5,8.75,7,0,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,1,277,6,-50,5,7.5,7,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,1,277,6,-50,5,7.5,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,1,6,6,-75,2.5,6.25,4,0,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,1,6,6,-75,2.5,6.25,4,0,0,171,CO,1,0.5,0.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,2,114,6,-35,5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,2,279,6,-50,5,7.5,5,0,-10,171,CO,1,1,0.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,2,279,6,-50,5,7.5,5,0,-10,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,2,114,6,-35,5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,3,276,6,-35,2.5,7.5,7,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,3,350,6,-50,2.5,10,7,0,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,3,276,6,-35,2.5,7.5,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,3,350,6,-50,2.5,10,7,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,4,218,6,-50,2.5,6.25,5,-4,0,171,CO,1,1,0.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,4,218,6,-50,2.5,6.25,5,-4,0,171,DF,1,0.5,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,4,293,6,-35,6.5,10,8,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,4,293,6,-35,6.5,10,8,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,5,290,6,-50,6.5,8.75,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,5,290,6,-50,6.5,8.75,6,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,5,289,6,-35,6.5,10,7,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2047,F,,Rock'n'Roll-Beginners,First round,5,289,6,-35,6.5,10,7,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,1,105,1,-50,7,7,6.75,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,1,105,1,-50,7,7,6.75,0,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,1,105,1,-50,7,7,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,2,174,1,-25,9,10,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,2,174,1,-25,9,10,8.25,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,2,174,1,-25,9,10,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,3,281,1,-25,11,11,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,3,281,1,-25,11,11,9,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,3,281,1,-25,11,11,9,0,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,4,115,1,-25,11,11,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,4,115,1,-25,11,11,9,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,4,115,1,-25,11,11,9,0,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,5,151,1,-35,8,9,8.25,-2,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,5,151,1,-35,8,9,8.25,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,5,151,1,-35,8,9,8.25,-2,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,6,158,1,-35,7,7,6.75,-2,0,171,DF,1.5,1,1,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,6,158,1,-35,7,7,6.75,-2,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2048,A,,Rock'n'Roll-Small Formation Juniors,Final,6,158,1,-35,7,7,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,1,105,2,-35,7,9,6,-2,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,1,105,2,-35,7,9,6,-2,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,1,105,2,-35,7,9,6,-2,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,2,174,2,-25,9,11,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,2,174,2,-25,9,11,7.5,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,2,174,2,-25,9,11,7.5,0,0,171,FM,1,2,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,3,281,2,-25,9,11,7.5,-2,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,3,281,2,-25,9,11,7.5,-2,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,3,281,2,-25,9,11,7.5,-2,0,171,FM,1,1.5,2,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,4,115,2,-35,7,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,4,115,2,-35,7,9,6,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,4,115,2,-35,7,9,6,0,0,171,FM,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,5,151,2,-35,8,9,6.75,-2,0,171,CO,1,1.5,2,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,5,151,2,-35,8,9,6.75,-2,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,5,151,2,-35,8,9,6.75,-2,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,6,158,2,-35,6,9,4.5,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,6,158,2,-35,6,9,4.5,-2,0,171,FM,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2048,C,,Rock'n'Roll-Small Formation Juniors,Final,6,158,2,-35,6,9,4.5,-2,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,1,105,3,-50,7,6,6,0,0,171,CO,1,1,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,1,105,3,-50,7,6,6,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,1,105,3,-50,7,6,6,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,2,174,3,-35,9,10,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,2,174,3,-35,9,10,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,2,174,3,-35,9,10,9,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,3,281,3,-25,10,11,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,3,281,3,-25,10,11,9,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,3,281,3,-25,10,11,9,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,4,115,3,-35,9,10,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,4,115,3,-35,9,10,8.25,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,4,115,3,-35,9,10,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,5,151,3,-35,9,9,7.5,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,5,151,3,-35,9,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,5,151,3,-35,9,9,7.5,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,6,158,3,-50,9,8,6.75,-2,0,171,CO,1,1.5,2,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,6,158,3,-50,9,8,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,D,,Rock'n'Roll-Small Formation Juniors,Final,6,158,3,-50,9,8,6.75,-2,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,1,105,4,-50,7,7,5.25,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,1,105,4,-50,7,7,5.25,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,1,105,4,-50,7,7,5.25,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,2,174,4,-25,9,9,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,2,174,4,-25,9,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,2,174,4,-25,9,9,7.5,0,0,171,FM,1,2,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,3,281,4,-35,9,9,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,3,281,4,-35,9,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,3,281,4,-35,9,9,7.5,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,4,115,4,-25,9,8,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,4,115,4,-25,9,8,6.75,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,4,115,4,-25,9,8,6.75,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,5,151,4,-50,8,7,5.25,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,5,151,4,-50,8,7,5.25,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,5,151,4,-50,8,7,5.25,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,6,158,4,-50,7,6,5.25,0,0,171,FM,1,1,1.5,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,6,158,4,-50,7,6,5.25,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2048,F,,Rock'n'Roll-Small Formation Juniors,Final,6,158,4,-50,7,6,5.25,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,1,105,5,-75,2,3,1.5,0,0,171,CO,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,1,105,5,-75,2,3,1.5,0,0,171,DF,0.5,0.5,0.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,1,105,5,-75,2,3,1.5,0,0,171,FM,0,0.5,0.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,2,174,5,-50,10,10,8.25,0,0,171,FM,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,2,174,5,-50,10,10,8.25,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,2,174,5,-50,10,10,8.25,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,3,281,5,-50,9,10,6.75,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,3,281,5,-50,9,10,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,3,281,5,-50,9,10,6.75,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,4,115,5,-50,9,8,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,4,115,5,-50,9,8,6.75,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,4,115,5,-50,9,8,6.75,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,5,151,5,-50,9,9,6.75,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,5,151,5,-50,9,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,5,151,5,-50,9,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,6,158,5,-50,6,6,4.5,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,6,158,5,-50,6,6,4.5,0,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2048,G,,Rock'n'Roll-Small Formation Juniors,Final,6,158,5,-50,6,6,4.5,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,1,218,1,-50,5,8.75,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,1,218,1,-50,5,8.75,8,0,0,171,DF,1.5,1,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,1,350,1,-35,5,11.25,9,0,0,171,CO,2,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,1,350,1,-35,5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,2,277,1,-35,5,10,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,2,279,1,-35,6.5,8.75,8,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,2,277,1,-35,5,10,8,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,2,279,1,-35,6.5,8.75,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,3,6,1,-35,6.5,10,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,3,6,1,-35,6.5,10,8,0,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,3,276,1,-35,6.5,10,8,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,A,,Rock'n'Roll-Beginners,Hope round,3,276,1,-35,6.5,10,8,-2,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,1,218,2,-75,2.5,6.25,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,1,350,2,-50,2.5,7.5,6,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,1,350,2,-50,2.5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,1,218,2,-75,2.5,6.25,6,0,0,171,DF,1,0.5,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,2,277,2,-75,2.5,5,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,2,277,2,-75,2.5,5,6,-2,0,171,DF,0.5,0.5,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,2,279,2,-75,2.5,6.25,5,-2,0,171,CO,1,1,0.5,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,2,279,2,-75,2.5,6.25,5,-2,0,171,DF,1,0.5,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,3,6,2,-50,2.5,6.25,6,0,0,171,DF,0.5,0.5,1.5,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,3,276,2,-75,5,6.25,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,3,6,2,-50,2.5,6.25,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,B,,Rock'n'Roll-Beginners,Hope round,3,276,2,-75,5,6.25,6,-2,0,171,DF,1,0.5,1,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,1,218,3,-25,6.5,8.75,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,1,218,3,-25,6.5,8.75,6,-2,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,1,350,3,-25,6.5,12.5,9,0,0,171,CO,1,1.5,2,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,1,350,3,-25,6.5,12.5,9,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,2,279,3,-25,6.5,11.25,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,2,279,3,-25,6.5,11.25,7,-2,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,2,277,3,-35,6.5,7.5,6,-4,0,171,CO,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,2,277,3,-35,6.5,7.5,6,-4,0,171,DF,0.5,1,1.5,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,3,6,3,-35,6.5,12.5,8,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,3,276,3,-35,5,8.75,6,0,0,171,CO,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,3,276,3,-35,5,8.75,6,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2049,C,,Rock'n'Roll-Beginners,Hope round,3,6,3,-35,6.5,12.5,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,1,350,4,-50,5,8.75,9,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,1,218,4,-50,5,10,8,-2,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,1,218,4,-50,5,10,8,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,1,350,4,-50,5,8.75,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,2,279,4,-50,6.5,10,8,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,2,279,4,-50,6.5,10,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,2,277,4,-50,5,8.75,8,-2,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,2,277,4,-50,5,8.75,8,-2,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,3,276,4,-35,5,10,9,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,3,6,4,-50,6.5,10,9,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,3,6,4,-50,6.5,10,9,-2,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,D,,Rock'n'Roll-Beginners,Hope round,3,276,4,-35,5,10,9,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,1,350,5,-50,5,10,5,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,1,350,5,-50,5,10,5,0,0,171,CO,1,1.5,0,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,1,218,5,-50,2.5,8.75,5,-4,0,171,DF,1.5,1,1,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,1,218,5,-50,2.5,8.75,5,-4,0,171,CO,0.5,1.5,0.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,2,277,5,-50,2.5,6.25,7,-2,0,171,CO,1.5,1.5,0.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,2,277,5,-50,2.5,6.25,7,-2,0,171,DF,0.5,0.5,1.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,2,279,5,-50,5,10,6,-2,0,171,CO,1,1.5,0.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,2,279,5,-50,5,10,6,-2,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,3,6,5,-35,5,8.75,6,0,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,3,276,5,-50,5,7.5,7,0,0,171,CO,1.5,1.5,0.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,3,6,5,-35,5,8.75,6,0,0,171,CO,1,1.5,0.5,0,0,0,0,0,0,-1,-1
+2049,E,,Rock'n'Roll-Beginners,Hope round,3,276,5,-50,5,7.5,7,0,0,171,DF,1,0.5,1.5,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,1,218,6,-50,2.5,7.5,5,0,0,171,CO,1,1,0.5,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,1,218,6,-50,2.5,7.5,5,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,1,350,6,-50,2.5,8.75,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,1,350,6,-50,2.5,8.75,7,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,2,277,6,-50,2.5,7.5,4,0,0,171,CO,0.5,1,0.5,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,2,279,6,-75,5,7.5,6,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,2,279,6,-75,5,7.5,6,-2,0,171,CO,1,1.5,0.5,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,2,277,6,-50,2.5,7.5,4,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,3,6,6,-50,5,6.25,5,0,0,171,CO,1,1,0.5,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,3,6,6,-50,5,6.25,5,0,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,3,276,6,-50,5,7.5,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2049,F,,Rock'n'Roll-Beginners,Hope round,3,276,6,-50,5,7.5,7,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,1,134,1,-15,7.5,15,14,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,1,134,1,-15,7.5,15,14,0,0,171,CO,2.5,2,2.5,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,2,7,1,-35,6.5,10,9,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,2,7,1,-35,6.5,10,9,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,3,193,1,-25,6.5,12.5,11,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,3,193,1,-25,6.5,12.5,11,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,4,3,1,-25,7.5,12.5,11,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,4,3,1,-25,7.5,12.5,11,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,5,57,1,-35,7.5,11.25,10,0,0,171,CO,2,1,2,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,5,57,1,-35,7.5,11.25,10,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,6,27,1,-25,7.5,12.5,11,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2050,A,,Rock'n'Roll-Juveniles,Final,6,27,1,-25,7.5,12.5,11,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,1,134,2,-25,6.5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,1,134,2,-25,6.5,10,9,0,0,171,DF,0.5,2,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,2,7,2,-35,5,7.5,7,-2,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,2,7,2,-35,5,7.5,7,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,3,193,2,-35,5,8.75,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,3,193,2,-35,5,8.75,8,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,4,3,2,-50,5,11.25,8,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,4,3,2,-50,5,11.25,8,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,5,57,2,-35,6.5,8.75,7,-4,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,5,57,2,-35,6.5,8.75,7,-4,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,6,27,2,-35,7.5,12.5,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,B,,Rock'n'Roll-Juveniles,Final,6,27,2,-35,7.5,12.5,9,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,1,134,3,-5,8.5,17.5,12,0,0,171,CO,2,2.5,1.5,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,1,134,3,-5,8.5,17.5,12,0,0,171,DF,2,2.5,2.5,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,2,7,3,-25,6.5,11.25,9,-4,0,171,CO,1,2,1.5,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,2,7,3,-25,6.5,11.25,9,-4,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,3,193,3,-15,7.5,12.5,11,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,3,193,3,-15,7.5,12.5,11,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,4,3,3,-25,6.5,12.5,9,-2,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,4,3,3,-25,6.5,12.5,9,-2,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,5,57,3,-25,7.5,12.5,10,0,0,171,CO,1,1.5,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,5,57,3,-25,7.5,12.5,10,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,6,27,3,-25,6.5,11.25,9,-4,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2050,C,,Rock'n'Roll-Juveniles,Final,6,27,3,-25,6.5,11.25,9,-4,0,171,CO,1,2,1,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,1,134,4,-15,8.5,16.25,14,0,0,171,CO,2,2.5,2.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,1,134,4,-15,8.5,16.25,14,0,0,171,DF,2,2.5,2,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,2,7,4,-35,6.5,11.25,9,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,2,7,4,-35,6.5,11.25,9,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,3,193,4,-35,5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,3,193,4,-35,5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,4,3,4,-25,6.5,11.25,10,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,4,3,4,-25,6.5,11.25,10,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,5,57,4,-35,6.5,11.25,10,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,5,57,4,-35,6.5,11.25,10,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,6,27,4,-15,8.5,15,11,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2050,D,,Rock'n'Roll-Juveniles,Final,6,27,4,-15,8.5,15,11,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,1,134,5,-25,6.5,13.75,13,0,0,171,CO,2,2,2.5,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,1,134,5,-25,6.5,13.75,13,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,2,7,5,-50,5,8.75,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,2,7,5,-50,5,8.75,7,-2,0,171,DF,1.5,1,1,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,3,193,5,-35,5,11.25,10,0,0,171,CO,1,2,2,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,3,193,5,-35,5,11.25,10,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,4,3,5,-35,5,12.5,8,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,4,3,5,-35,5,12.5,8,0,0,171,CO,1,1,2,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,5,57,5,-50,5,8.75,6,-2,0,171,CO,1,0.5,1.5,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,5,57,5,-50,5,8.75,6,-2,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,6,27,5,-50,6.5,11.25,10,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2050,E,,Rock'n'Roll-Juveniles,Final,6,27,5,-50,6.5,11.25,10,-2,0,171,DF,1.5,1,2,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,1,134,6,-25,7.5,12.5,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,1,134,6,-25,7.5,12.5,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,2,7,6,-35,5,8.75,7,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,2,7,6,-35,5,8.75,7,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,3,193,6,-25,6.5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,3,193,6,-25,6.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,4,3,6,-15,6.5,8.75,8,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,4,3,6,-15,6.5,8.75,8,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,5,57,6,-35,6.5,10,7,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,5,57,6,-35,6.5,10,7,-2,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,6,27,6,-25,7.5,12.5,10,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2050,F,,Rock'n'Roll-Juveniles,Final,6,27,6,-25,7.5,12.5,10,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,1,155,1,-35,6.5,8,8,0,0,171,CO,1,1,1.5,0,0,0,0,0,1.75,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,1,155,1,-35,6.5,8,8,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,1.75,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,1,155,1,-35,6.5,8,8,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,1.75,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,2,62,1,-35,7.5,9,9,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,2,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,2,62,1,-35,7.5,9,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,2,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,2,62,1,-35,7.5,9,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,2,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,3,149,1,-25,7.5,11,12,0,0,171,CO,2,1,2,0,0,0,0,0,2.5,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,3,149,1,-25,7.5,11,12,0,0,171,DF,2,1.5,2,0,0,0,0,0,2.5,-1,-1
+2051,A,,Rock'n'Roll-Juniors,Final,3,149,1,-25,7.5,11,12,0,0,171,CO,2,2,2,0,0,0,0,0,2.5,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,1,155,2,-35,2.5,6,7,-2,0,171,CO,0.5,1,0.5,0,0,0,0,0,1,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,1,155,2,-35,2.5,6,7,-2,0,171,CO,1,1,1.5,0,0,0,0,0,1,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,1,155,2,-35,2.5,6,7,-2,0,171,DF,0.5,1,1.5,0,0,0,0,0,1,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,2,62,2,-35,5,5,7,-4,0,171,CO,1,1,1,0,0,0,0,0,1.5,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,2,62,2,-35,5,5,7,-4,0,171,CO,1.5,1,1,0,0,0,0,0,1.5,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,2,62,2,-35,5,5,7,-4,0,171,DF,0.5,1,1,0,0,0,0,0,1.5,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,3,149,2,-25,6.5,9,10,-2,0,171,CO,1.5,1,1.5,0,0,0,0,0,2,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,3,149,2,-25,6.5,9,10,-2,0,171,CO,2,1.5,1.5,0,0,0,0,0,2,-1,-1
+2051,B,,Rock'n'Roll-Juniors,Final,3,149,2,-25,6.5,9,10,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,2,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,1,155,3,-35,5,8,7,0,0,171,CO,0.5,1.5,1,0,0,0,0,0,1.5,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,1,155,3,-35,5,8,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,1.5,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,1,155,3,-35,5,8,7,0,0,171,DF,0.5,1.5,2,0,0,0,0,0,1.5,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,2,62,3,-35,6.5,9,7,-2,0,171,CO,1,1,1.5,0,0,0,0,0,1.75,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,2,62,3,-35,6.5,9,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,1.75,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,2,62,3,-35,6.5,9,7,-2,0,171,DF,1,2,1.5,0,0,0,0,0,1.75,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,3,149,3,-25,6.5,9,11,-2,0,171,CO,1.5,1,2,0,0,0,0,0,2.25,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,3,149,3,-25,6.5,9,11,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,2.25,-1,-1
+2051,C,,Rock'n'Roll-Juniors,Final,3,149,3,-25,6.5,9,11,-2,0,171,CO,1.5,2,2,0,0,0,0,0,2.25,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,1,155,4,-50,5,7,8,0,0,171,CO,1,1,1,0,0,0,0,0,1.5,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,1,155,4,-50,5,7,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,1.5,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,1,155,4,-50,5,7,8,0,0,171,DF,1,1.5,1,0,0,0,0,0,1.5,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,2,62,4,-35,5,7,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,2,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,2,62,4,-35,5,7,8,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,2,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,2,62,4,-35,5,7,8,0,0,171,DF,1,1,1.5,0,0,0,0,0,2,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,3,149,4,-35,7.5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,3,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,3,149,4,-35,7.5,10,9,0,0,171,CO,2.5,1.5,2,0,0,0,0,0,3,-1,-1
+2051,D,,Rock'n'Roll-Juniors,Final,3,149,4,-35,7.5,10,9,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,3,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,1,155,5,-50,2.5,7,7,-2,0,171,CO,1,1,1,0,0,0,0,0,1.5,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,1,155,5,-50,2.5,7,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,1.5,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,1,155,5,-50,2.5,7,7,-2,0,171,DF,1,1,1.5,0,0,0,0,0,1.5,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,2,62,5,-50,6.5,7,4,-4,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,1.75,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,2,62,5,-50,6.5,7,4,-4,0,171,CO,0.5,1,0.5,0,0,0,0,0,1.75,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,2,62,5,-50,6.5,7,4,-4,0,171,CO,1,1.5,1,0,0,0,0,0,1.75,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,3,149,5,-35,6.5,9,11,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,2.75,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,3,149,5,-35,6.5,9,11,-2,0,171,CO,2,1.5,2,0,0,0,0,0,2.75,-1,-1
+2051,E,,Rock'n'Roll-Juniors,Final,3,149,5,-35,6.5,9,11,-2,0,171,CO,1.5,2,2,0,0,0,0,0,2.75,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,1,155,6,-35,5,7,6,-2,0,171,CO,1,1,1,0,0,0,0,0,1.5,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,1,155,6,-35,5,7,6,-2,0,171,DF,1,1.5,1,0,0,0,0,0,1.5,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,2,62,6,-50,2.5,6,7,0,0,171,CO,1,0.5,1,0,0,0,0,0,1.25,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,2,62,6,-50,2.5,6,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,1.25,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,2,62,6,-50,2.5,6,7,0,0,171,DF,1,1,1,0,0,0,0,0,1.25,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,3,149,6,-25,6.5,9,10,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,2.75,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,3,149,6,-25,6.5,9,10,0,0,171,CO,2,2,1.5,0,0,0,0,0,2.75,-1,-1
+2051,F,,Rock'n'Roll-Juniors,Final,3,149,6,-25,6.5,9,10,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,2.75,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,1,286,2,-50,2.5,6.25,6,-4,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,1,286,2,-50,2.5,6.25,6,-4,0,171,DF,0.5,0.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,2,119,2,-50,2.5,7.5,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,2,119,2,-50,2.5,7.5,8,0,0,171,DF,0.5,1,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,3,142,2,-35,6.5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,3,142,2,-35,6.5,10,9,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,4,226,2,-35,7.5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,4,226,2,-35,7.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,5,323,2,-35,6.5,10,8,-2,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,5,323,2,-35,6.5,10,8,-2,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,6,288,2,-35,5,6.25,7,-8,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2052,B,F,Rock'n'Roll-Main Class Start,Final,6,288,2,-35,5,6.25,7,-8,0,171,DF,1,0.5,1,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,1,286,5,-50,2.5,6.25,9,-2,0,171,CO,1,1.5,2,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,1,286,5,-50,2.5,6.25,9,-2,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,2,119,5,-35,2.5,6.25,6,0,0,171,CO,0.5,2,0.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,2,119,5,-35,2.5,6.25,6,0,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,3,142,5,-50,2.5,10,10,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,3,142,5,-50,2.5,10,10,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,4,226,5,-35,6.5,12.5,9,0,0,171,CO,1,2,1.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,4,226,5,-35,6.5,12.5,9,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,5,323,5,-35,6.5,11.25,7,-2,0,171,CO,1,2,0.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,5,323,5,-35,6.5,11.25,7,-2,0,171,DF,2,1,1.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,6,288,5,-35,6.5,10,7,-12,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2052,E,F,Rock'n'Roll-Main Class Start,Final,6,288,5,-35,6.5,10,7,-12,0,171,CO,1,0.5,2,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,1,286,6,-50,5,7.5,7,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,1,286,6,-50,5,7.5,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,2,119,6,-35,5,7.5,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,2,119,6,-35,5,7.5,7,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,3,142,6,-50,5,10,7,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,3,142,6,-50,5,10,7,0,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,4,226,6,-25,7.5,10,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,4,226,6,-25,7.5,10,8,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,5,323,6,-25,6.5,8.75,7,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,5,323,6,-25,6.5,8.75,7,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,6,288,6,-35,5,7.5,6,-8,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2052,F,F,Rock'n'Roll-Main Class Start,Final,6,288,6,-35,5,7.5,6,-8,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,1,6,1,-35,6.5,11.25,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,1,6,1,-35,6.5,11.25,8,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,2,350,1,-35,6.5,11.25,9,0,0,171,CO,1.5,2,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,2,350,1,-35,6.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,3,293,1,-25,6.5,12.5,10,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,3,293,1,-25,6.5,12.5,10,0,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,4,114,1,-35,6.5,12.5,10,0,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,4,114,1,-35,6.5,12.5,10,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,5,289,1,-25,6.5,13.75,10,0,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,5,289,1,-25,6.5,13.75,10,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,6,290,1,-35,6.5,11.25,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,A,,Rock'n'Roll-Beginners,Final,6,290,1,-35,6.5,11.25,8,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,1,6,2,-50,2.5,7.5,5,-2,0,171,DF,0.5,1,1.5,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,1,6,2,-50,2.5,7.5,5,-2,0,171,CO,1,0.5,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,2,350,2,-50,2.5,7.5,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,2,350,2,-50,2.5,7.5,6,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,3,293,2,-35,2.5,10,7,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,3,293,2,-35,2.5,10,7,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,4,114,2,-50,5,8.75,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,4,114,2,-50,5,8.75,6,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,5,289,2,-50,2.5,7.5,7,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,5,289,2,-50,2.5,7.5,7,0,0,171,DF,1,0.5,1.5,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,6,290,2,-75,5,7.5,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,B,,Rock'n'Roll-Beginners,Final,6,290,2,-75,5,7.5,6,-2,0,171,DF,0.5,1,1.5,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,1,6,3,-35,6.5,11.25,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,1,6,3,-35,6.5,11.25,6,-2,0,171,DF,0.5,2,2,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,2,350,3,-35,6.5,10,7,0,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,2,350,3,-35,6.5,10,7,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,3,293,3,-35,2.5,8.75,7,-2,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,3,293,3,-35,2.5,8.75,7,-2,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,4,114,3,-35,5,8.75,7,-2,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,4,114,3,-35,5,8.75,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,5,289,3,-25,6.5,12.5,8,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,5,289,3,-25,6.5,12.5,8,-2,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,6,290,3,-25,6.5,10,10,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2053,C,,Rock'n'Roll-Beginners,Final,6,290,3,-25,6.5,10,10,-2,0,171,DF,0.5,2,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,1,6,4,-35,5,8.75,7,0,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,1,6,4,-35,5,8.75,7,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,2,350,4,-50,5,7.5,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,2,350,4,-50,5,7.5,8,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,3,293,4,-25,7.5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,3,293,4,-25,7.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,4,114,4,-35,6.5,10,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,4,114,4,-35,6.5,10,9,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,5,289,4,-35,7.5,11.25,9,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,5,289,4,-35,7.5,11.25,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,6,290,4,-50,5,7.5,8,-2,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,D,,Rock'n'Roll-Beginners,Final,6,290,4,-50,5,7.5,8,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,1,6,5,-50,5,6.25,7,-2,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,1,6,5,-50,5,6.25,7,-2,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,2,350,5,-50,2.5,7.5,9,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,2,350,5,-50,2.5,7.5,9,0,0,171,CO,1.5,2,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,3,293,5,-35,5,10,8,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,3,293,5,-35,5,10,8,0,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,4,114,5,-50,5,10,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,4,114,5,-50,5,10,8,0,0,171,DF,1,1,2,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,5,289,5,-35,5,10,9,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,5,289,5,-35,5,10,9,0,0,171,CO,1,2,1.5,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,6,290,5,-50,5,8.75,10,-4,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,E,,Rock'n'Roll-Beginners,Final,6,290,5,-50,5,8.75,10,-4,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,1,6,6,-75,2.5,6.25,4,0,0,171,CO,1,0.5,0.5,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,1,6,6,-75,2.5,6.25,4,0,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,2,350,6,-50,5,8.75,6,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,2,350,6,-50,5,8.75,6,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,3,293,6,-25,2.5,8.75,7,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,3,293,6,-25,2.5,8.75,7,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,4,114,6,-35,5,10,8,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,4,114,6,-35,5,10,8,0,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,5,289,6,-50,6.5,8.75,6,-2,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,5,289,6,-50,6.5,8.75,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,6,290,6,-75,5,8.75,6,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2053,F,,Rock'n'Roll-Beginners,Final,6,290,6,-75,5,8.75,6,-2,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,1,335,1,-25,8,9,7.5,0,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,1,335,1,-25,8,9,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,1,335,1,-25,8,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,2,33,1,-15,12,12,10.5,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,2,33,1,-15,12,12,10.5,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,2,33,1,-15,12,12,10.5,0,0,171,CO,2.5,2,2.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,3,104,1,-25,9,9,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,3,104,1,-25,9,9,8.25,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,3,104,1,-25,9,9,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,4,180,1,-25,8,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,4,180,1,-25,8,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,4,180,1,-25,8,9,6.75,0,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,5,321,1,-15,10,12,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,5,321,1,-15,10,12,9,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,5,321,1,-15,10,12,9,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,6,20,1,-25,8,9,8.25,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,6,20,1,-25,8,9,8.25,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,6,20,1,-25,8,9,8.25,0,0,171,FM,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,7,259,1,-35,9,8,8.25,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,7,259,1,-35,9,8,8.25,-2,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,7,259,1,-35,9,8,8.25,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,8,35,1,-35,8,9,9,0,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,8,35,1,-35,8,9,9,0,0,171,CO,2,1.5,2.5,0,0,0,0,0,0,-1,-1
+2059,A,,Rock'n'Roll-Small Formation,First round,8,35,1,-35,8,9,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,1,335,2,-35,8,10,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,1,335,2,-35,8,10,6.75,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,1,335,2,-35,8,10,6.75,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,2,33,2,-25,10,12,9.75,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,2,33,2,-25,10,12,9.75,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,2,33,2,-25,10,12,9.75,0,0,171,DF,1.5,2.5,2,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,3,104,2,-25,9,10,8.25,0,0,171,FM,1,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,3,104,2,-25,9,10,8.25,0,0,171,CO,1.5,1.5,2.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,3,104,2,-25,9,10,8.25,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,4,180,2,-35,8,9,6,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,4,180,2,-35,8,9,6,-2,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,4,180,2,-35,8,9,6,-2,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,5,321,2,-15,10,10,8.25,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,5,321,2,-15,10,10,8.25,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,5,321,2,-15,10,10,8.25,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,6,20,2,-25,8,9,8.25,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,6,20,2,-25,8,9,8.25,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,6,20,2,-25,8,9,8.25,0,0,171,FM,0.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,7,259,2,-35,7,8,4.5,-4,-10,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,7,259,2,-35,7,8,4.5,-4,-10,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,7,259,2,-35,7,8,4.5,-4,-10,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,8,35,2,-25,9,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,8,35,2,-25,9,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,C,,Rock'n'Roll-Small Formation,First round,8,35,2,-25,9,9,6.75,0,0,171,FM,1,1.5,2,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,1,335,3,-50,8,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,1,335,3,-50,8,9,6,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,1,335,3,-50,8,9,6,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,2,33,3,-35,9,8,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,2,33,3,-35,9,8,6.75,-2,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,2,33,3,-35,9,8,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,3,104,3,-35,9,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,3,104,3,-35,9,9,6.75,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,3,104,3,-35,9,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,4,180,3,-50,8,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,4,180,3,-50,8,9,6,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,4,180,3,-50,8,9,6,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,5,321,3,-25,9,10,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,5,321,3,-25,9,10,7.5,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,5,321,3,-25,9,10,7.5,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,6,20,3,-25,7,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,6,20,3,-25,7,9,6,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,6,20,3,-25,7,9,6,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,7,259,3,-35,9,8,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,7,259,3,-35,9,8,6.75,-2,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,7,259,3,-35,9,8,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,8,35,3,-25,9,9,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,8,35,3,-25,9,9,6.75,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,D,,Rock'n'Roll-Small Formation,First round,8,35,3,-25,9,9,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,1,335,4,-35,8,7,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,1,335,4,-35,8,7,6,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,1,335,4,-35,8,7,6,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,2,33,4,-25,11,10,8.25,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,2,33,4,-25,11,10,8.25,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,2,33,4,-25,11,10,8.25,0,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,3,104,4,-25,9,7,5.25,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,3,104,4,-25,9,7,5.25,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,3,104,4,-25,9,7,5.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,4,180,4,-35,8,6,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,4,180,4,-35,8,6,6.75,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,4,180,4,-35,8,6,6.75,-2,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,5,321,4,-25,10,11,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,5,321,4,-25,10,11,7.5,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,5,321,4,-25,10,11,7.5,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,6,20,4,-25,8,7,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,6,20,4,-25,8,7,6,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,6,20,4,-25,8,7,6,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,7,259,4,-35,6,6,4.5,-2,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,7,259,4,-35,6,6,4.5,-2,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,7,259,4,-35,6,6,4.5,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,8,35,4,-25,11,9,8.25,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,8,35,4,-25,11,9,8.25,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,F,,Rock'n'Roll-Small Formation,First round,8,35,4,-25,11,9,8.25,0,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,1,335,5,-50,4,6,3.75,0,0,171,FM,0.5,1,0.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,1,335,5,-50,4,6,3.75,0,0,171,CO,0.5,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,1,335,5,-50,4,6,3.75,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,2,33,5,-35,10,11,6.75,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,2,33,5,-35,10,11,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,2,33,5,-35,10,11,6.75,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,3,104,5,-35,7,10,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,3,104,5,-35,7,10,6.75,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,3,104,5,-35,7,10,6.75,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,4,180,5,-50,5,6,4.5,0,0,171,FM,0.5,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,4,180,5,-50,5,6,4.5,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,4,180,5,-50,5,6,4.5,0,0,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,5,321,5,-35,9,9,8.25,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,5,321,5,-35,9,9,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,5,321,5,-35,9,9,8.25,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,6,20,5,-50,7,7,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,6,20,5,-50,7,7,6,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,6,20,5,-50,7,7,6,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,7,259,5,-50,4,6,3.75,-2,0,171,CO,1,1.5,0,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,7,259,5,-50,4,6,3.75,-2,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,7,259,5,-50,4,6,3.75,-2,0,171,FM,1,1,0,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,8,35,5,-35,6,8,5.25,0,0,171,CO,1.5,1,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,8,35,5,-35,6,8,5.25,0,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2059,G,,Rock'n'Roll-Small Formation,First round,8,35,5,-35,6,8,5.25,0,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,1,20,1,-25,9,9,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,1,20,1,-25,9,9,8.25,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,1,20,1,-25,9,9,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,2,321,1,-15,10,12,8.25,-2,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,2,321,1,-15,10,12,8.25,-2,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,2,321,1,-15,10,12,8.25,-2,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,3,35,1,-25,9,9,8.25,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,3,35,1,-25,9,9,8.25,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,3,35,1,-25,9,9,8.25,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,4,104,1,-25,10,9,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,4,104,1,-25,10,9,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,4,104,1,-25,10,9,9,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,5,335,1,-25,9,9,7.5,0,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,5,335,1,-25,9,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,5,335,1,-25,9,9,7.5,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,6,33,1,-15,12,12,10.5,0,0,171,CO,2.5,2,2.5,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,6,33,1,-15,12,12,10.5,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2060,A,,Rock'n'Roll-Small Formation,Final,6,33,1,-15,12,12,10.5,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,1,20,2,-25,8,10,7.5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,1,20,2,-25,8,10,7.5,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,1,20,2,-25,8,10,7.5,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,2,321,2,-15,10,12,7.5,-4,0,171,CO,2,2,1,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,2,321,2,-15,10,12,7.5,-4,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,2,321,2,-15,10,12,7.5,-4,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,3,35,2,-25,8,10,7.5,-4,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,3,35,2,-25,8,10,7.5,-4,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,3,35,2,-25,8,10,7.5,-4,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,4,104,2,-15,9,9,7.5,-2,0,171,CO,1,1.5,2.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,4,104,2,-15,9,9,7.5,-2,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,4,104,2,-15,9,9,7.5,-2,0,171,FM,1,2,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,5,335,2,-35,6,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,5,335,2,-35,6,9,6,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,5,335,2,-35,6,9,6,0,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,6,33,2,-15,12,12,9,0,0,171,CO,2,2.5,1.5,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,6,33,2,-15,12,12,9,0,0,171,DF,1.5,2.5,2,0,0,0,0,0,0,-1,-1
+2060,C,,Rock'n'Roll-Small Formation,Final,6,33,2,-15,12,12,9,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,1,20,3,-25,7,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,1,20,3,-25,7,9,6,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,1,20,3,-25,7,9,6,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,2,321,3,-25,9,9,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,2,321,3,-25,9,9,6.75,-2,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,2,321,3,-25,9,9,6.75,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,3,35,3,-25,9,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,3,35,3,-25,9,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,3,35,3,-25,9,9,6.75,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,4,104,3,-35,10,10,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,4,104,3,-35,10,10,7.5,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,4,104,3,-35,10,10,7.5,0,0,171,FM,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,5,335,3,-35,8,10,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,5,335,3,-35,8,10,6.75,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,5,335,3,-35,8,10,6.75,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,6,33,3,-25,10,10,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,6,33,3,-25,10,10,6.75,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,D,,Rock'n'Roll-Small Formation,Final,6,33,3,-25,10,10,6.75,0,0,171,FM,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,1,20,4,-25,8,8,6,0,0,171,FM,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,1,20,4,-25,8,8,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,1,20,4,-25,8,8,6,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,2,321,4,-15,12,11,7.5,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,2,321,4,-15,12,11,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,2,321,4,-15,12,11,7.5,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,3,35,4,-15,11,9,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,3,35,4,-15,11,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,3,35,4,-15,11,9,7.5,0,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,4,104,4,-25,8,9,6,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,4,104,4,-25,8,9,6,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,4,104,4,-25,8,9,6,0,0,171,FM,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,5,335,4,-25,7,6,5.25,0,0,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,5,335,4,-25,7,6,5.25,0,0,171,DF,1,1,1,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,5,335,4,-25,7,6,5.25,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,6,33,4,-15,11,10,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,6,33,4,-15,11,10,7.5,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2060,F,,Rock'n'Roll-Small Formation,Final,6,33,4,-15,11,10,7.5,0,0,171,FM,1.5,2,2,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,1,20,5,-35,6,9,6.75,0,0,171,FM,1,1,1,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,1,20,5,-35,6,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,1,20,5,-35,6,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,2,321,5,-35,8,11,6.75,-2,0,171,FM,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,2,321,5,-35,8,11,6.75,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,2,321,5,-35,8,11,6.75,-2,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,3,35,5,-35,7,9,6.75,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,3,35,5,-35,7,9,6.75,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,3,35,5,-35,7,9,6.75,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,4,104,5,-25,9,11,7.5,0,0,171,FM,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,4,104,5,-25,9,11,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,4,104,5,-25,9,11,7.5,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,5,335,5,-35,7,9,6,0,0,171,FM,1,1.5,1,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,5,335,5,-35,7,9,6,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,5,335,5,-35,7,9,6,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,6,33,5,-25,12,12,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,6,33,5,-25,12,12,9,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2060,G,,Rock'n'Roll-Small Formation,Final,6,33,5,-25,12,12,9,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2061,A,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,1,-62.5,3.75,6.875,6,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2061,A,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,1,-62.5,3.75,6.875,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2061,A,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,1,-67.5,3.75,6.25,5.5,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,A,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,1,-67.5,3.75,6.25,5.5,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2061,A,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,1,-62.5,3.75,6.875,6.5,0,0,171,CO,2,2,2.5,0,0,0,0,0,0,-1,-1
+2061,A,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,1,-62.5,3.75,6.875,6.5,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2061,B,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,2,-67.5,3.75,5.625,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,B,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,2,-67.5,3.75,5.625,4.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,B,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,2,-67.5,2.5,5.625,5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,B,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,2,-67.5,2.5,5.625,5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2061,B,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,2,-67.5,3.25,5,4.5,-2,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,B,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,2,-67.5,3.25,5,4.5,-2,0,171,DF,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2061,C,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,3,-57.5,3.75,8.125,5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2061,C,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,3,-57.5,3.75,8.125,5,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2061,C,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,3,-57.5,4.5,8.125,6.5,-2,0,171,CO,2,2.5,2,0,0,0,0,0,0,-1,-1
+2061,C,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,3,-57.5,4.5,8.125,6.5,-2,0,171,DF,1.5,2,2.5,0,0,0,0,0,0,-1,-1
+2061,C,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,3,-57.5,3.25,6.875,5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2061,C,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,3,-57.5,3.25,6.875,5,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2061,D,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,4,-62.5,4.25,6.25,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2061,D,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,4,-62.5,4.25,6.25,6,0,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,D,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,4,-67.5,3.75,7.5,5.5,0,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2061,D,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,4,-67.5,3.75,7.5,5.5,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2061,D,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,4,-67.5,3.75,6.25,5.5,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2061,D,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,4,-67.5,3.75,6.25,5.5,0,0,171,DF,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2061,E,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,5,-67.5,3.75,4.375,5.5,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2061,E,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,5,-67.5,3.75,4.375,5.5,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2061,E,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,5,-67.5,2.5,5.625,5.5,0,0,171,CO,1.5,2.5,1.5,0,0,0,0,0,0,-1,-1
+2061,E,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,5,-67.5,2.5,5.625,5.5,0,0,171,DF,1,1.5,2,0,0,0,0,0,0,-1,-1
+2061,E,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,5,-75,2.5,4.375,5.5,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2061,E,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,5,-75,2.5,4.375,5.5,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2061,F,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,6,-57.5,4.25,6.875,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,F,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,1,28,6,-57.5,4.25,6.875,4.5,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2061,F,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,6,-62.5,3.75,5.625,5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2061,F,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,2,236,6,-62.5,3.75,5.625,5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,F,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,6,-62.5,3.75,5.625,4.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2061,F,F,Rock'n'Roll-Main Class Contact Style,Final - Foot technique,3,283,6,-62.5,3.75,5.625,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,1,-57.5,3.75,6.875,6,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,1,-57.5,3.75,6.875,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,1,-57.5,3.75,6.25,6,-2,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,1,-57.5,3.75,6.25,6,-2,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,1,-57.5,3.75,6.25,5.5,-2,0,171,CO,2,1.5,2,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,1,-57.5,3.75,6.25,5.5,-2,0,171,DF,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,1,-62.5,3.25,7.5,6,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2062,A,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,1,-62.5,3.25,7.5,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,2,-62.5,2.5,5,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,2,-62.5,2.5,5,4.5,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,2,-67.5,3.25,5,4.5,0,-10,171,CO,2,1,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,2,-67.5,3.25,5,4.5,0,-10,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,2,-67.5,2.5,4.375,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,2,-67.5,2.5,4.375,4.5,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,2,-67.5,1.25,4.375,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,B,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,2,-67.5,1.25,4.375,4.5,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,3,-57.5,3.25,6.875,5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,3,-57.5,3.25,6.875,5,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,3,-62.5,4.25,6.25,4,-2,-10,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,3,-62.5,4.25,6.25,4,-2,-10,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,3,-57.5,3.25,6.875,5,-2,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,3,-57.5,3.25,6.875,5,-2,0,171,DF,2,1,2,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,3,-57.5,3.25,6.875,5,0,0,171,CO,1.5,2,1.5,0,0,0,0,0,0,-1,-1
+2062,C,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,3,-57.5,3.25,6.875,5,0,0,171,DF,1,2,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,4,-62.5,3.25,7.5,6,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,4,-62.5,3.25,7.5,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,4,-62.5,3.25,6.875,5,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,4,-62.5,3.25,6.875,5,-2,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,4,-67.5,3.25,7.5,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,4,-67.5,3.25,7.5,6,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,4,-67.5,3.25,6.875,6,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2062,D,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,4,-67.5,3.25,6.875,6,0,0,171,DF,2,2,1.5,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,5,-67.5,2.5,4.375,5.5,0,0,171,CO,1,2,2.5,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,5,-67.5,2.5,4.375,5.5,0,0,171,DF,1,1.5,1,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,5,-67.5,3.25,5.625,4,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,5,-67.5,3.25,5.625,4,-2,0,171,DF,1.5,1,2,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,5,-62.5,2.5,6.25,5.5,0,0,171,CO,1.5,1.5,2.5,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,5,-62.5,2.5,6.25,5.5,0,0,171,DF,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,5,-67.5,2.5,5.625,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,E,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,5,-67.5,2.5,5.625,4.5,0,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,6,-57.5,3.25,5.625,5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,1,222,6,-57.5,3.25,5.625,5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,6,-57.5,3.75,5.625,4,-2,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,2,292,6,-57.5,3.75,5.625,4,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,6,-62.5,3.25,6.875,5.5,0,0,171,DF,2,1.5,2,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,3,8,6,-62.5,3.25,6.875,5.5,0,0,171,CO,2,2,1.5,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,6,-62.5,2.5,5.625,4,0,0,171,CO,1.5,1,1.5,0,0,0,0,0,0,-1,-1
+2062,F,F,Rock'n'Roll-Main Class Free Style,Final - Foot technique,4,172,6,-62.5,2.5,5.625,4,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2065,A,,Rock'n'Roll-Formation,Final,1,128,1,-25,10,9,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2065,A,,Rock'n'Roll-Formation,Final,1,128,1,-25,10,9,9,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2065,A,,Rock'n'Roll-Formation,Final,1,128,1,-25,10,9,9,0,0,171,FM,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2065,C,,Rock'n'Roll-Formation,Final,1,128,2,-25,11,13,9.75,-2,0,171,CO,2,2.5,2,0,0,0,0,0,0,-1,-1
+2065,C,,Rock'n'Roll-Formation,Final,1,128,2,-25,11,13,9.75,-2,0,171,FM,2,1.5,2,0,0,0,0,0,0,-1,-1
+2065,C,,Rock'n'Roll-Formation,Final,1,128,2,-25,11,13,9.75,-2,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2065,D,,Rock'n'Roll-Formation,Final,1,128,3,-25,15,14,9.75,0,0,171,CO,2.5,2,2,0,0,0,0,0,0,-1,-1
+2065,D,,Rock'n'Roll-Formation,Final,1,128,3,-25,15,14,9.75,0,0,171,DF,2.5,2.5,2,0,0,0,0,0,0,-1,-1
+2065,D,,Rock'n'Roll-Formation,Final,1,128,3,-25,15,14,9.75,0,0,171,FM,2.5,2.5,2.5,0,0,0,0,0,0,-1,-1
+2065,F,,Rock'n'Roll-Formation,Final,1,128,4,-15,12,9,7.5,0,0,171,CO,2,1.5,1.5,0,0,0,0,0,0,-1,-1
+2065,F,,Rock'n'Roll-Formation,Final,1,128,4,-15,12,9,7.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2065,F,,Rock'n'Roll-Formation,Final,1,128,4,-15,12,9,7.5,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2065,G,,Rock'n'Roll-Formation,Final,1,128,5,-15,12,12,9,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2065,G,,Rock'n'Roll-Formation,Final,1,128,5,-15,12,12,9,0,0,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2065,G,,Rock'n'Roll-Formation,Final,1,128,5,-15,12,12,9,0,0,171,FM,2,2,2,0,0,0,0,0,0,-1,-1
+2066,B,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,1,283,2,-67.5,3.25,4.375,4,-2,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2066,B,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,1,283,2,-67.5,3.25,4.375,4,-2,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2066,B,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,2,236,2,-75,2.5,4.375,4,0,0,171,CO,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2066,B,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,2,236,2,-75,2.5,4.375,4,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2066,B,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,3,28,2,-62.5,3.25,5,6,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2066,B,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,3,28,2,-62.5,3.25,5,6,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2066,C,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,1,283,3,-57.5,3.25,5.625,4,-4,0,171,CO,1,2,1,0,0,0,0,0,0,-1,-1
+2066,C,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,1,283,3,-57.5,3.25,5.625,4,-4,0,171,DF,1,2,1.5,0,0,0,0,0,0,-1,-1
+2066,C,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,2,236,3,-62.5,4.25,7.5,6.5,0,0,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2066,C,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,2,236,3,-62.5,4.25,7.5,6.5,0,0,171,DF,1.5,2.5,2,0,0,0,0,0,0,-1,-1
+2066,C,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,3,28,3,-55,3.75,6.875,6,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2066,C,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,3,28,3,-55,3.75,6.875,6,0,0,171,DF,1.5,2,2,0,0,0,0,0,0,-1,-1
+2066,E,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,1,283,5,-75,2.5,5,4,0,-10,171,CO,1,1,2,0,0,0,0,0,0,-1,-1
+2066,E,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,1,283,5,-75,2.5,5,4,0,-10,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2066,E,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,2,236,5,-75,2.5,4.375,5.5,0,0,171,CO,1,2,2.5,0,0,0,0,0,0,-1,-1
+2066,E,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,2,236,5,-75,2.5,4.375,5.5,0,0,171,DF,0.5,2,1,0,0,0,0,0,0,-1,-1
+2066,E,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,3,28,5,-67.5,3.25,5,5.5,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2066,E,F,Rock'n'Roll-Main Class Contact Style,Final - Acrobatic,3,28,5,-67.5,3.25,5,5.5,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,1,292,2,-62.5,3.25,4.375,3.5,-2,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,1,292,2,-62.5,3.25,4.375,3.5,-2,0,171,DF,0.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,2,222,2,-67.5,1.25,5,4,0,0,171,CO,1,2,1,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,2,222,2,-67.5,1.25,5,4,0,0,171,DF,1,1.5,1.5,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,3,8,2,-67.5,2.5,3.75,3,0,-30,171,DF,0.5,1,1.5,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,3,8,2,-67.5,2.5,3.75,3,0,-30,171,CO,1,1,1,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,4,172,2,-75,2.5,3.125,3.5,0,0,171,DF,0.5,1,1,0,0,0,0,0,0,-1,-1
+2067,B,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,4,172,2,-75,2.5,3.125,3.5,0,0,171,CO,1,1,1.5,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,1,292,4,-62.5,3.75,5.625,5,-2,0,171,CO,1.5,1.5,2,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,1,292,4,-62.5,3.75,5.625,5,-2,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,2,222,4,-67.5,2.5,5.625,5.5,0,0,171,CO,1.5,2,2,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,2,222,4,-67.5,2.5,5.625,5.5,0,0,171,DF,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,3,8,4,-62.5,3.75,7.5,6,0,-30,171,CO,2,2,2,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,3,8,4,-62.5,3.75,7.5,6,0,-30,171,DF,2,2,2,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,4,172,4,-67.5,3.25,5,4.5,0,0,171,CO,1.5,1.5,1.5,0,0,0,0,0,0,-1,-1
+2067,D,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,4,172,4,-67.5,3.25,5,4.5,0,0,171,DF,1.5,1.5,1,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,1,292,5,-67.5,2.5,3.75,4.5,-2,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,1,292,5,-67.5,2.5,3.75,4.5,-2,0,171,CO,1,2,1.5,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,2,222,5,-75,1.25,4.375,6,0,0,171,CO,1.5,2,2.5,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,2,222,5,-75,1.25,4.375,6,0,0,171,DF,1,1,1.5,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,3,8,5,-67.5,2.5,5,3.5,0,-30,171,CO,1,1.5,1,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,3,8,5,-67.5,2.5,5,3.5,0,-30,171,DF,1,1,2,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,4,172,5,-67.5,2.5,3.75,4,0,0,171,DF,0.5,1.5,1,0,0,0,0,0,0,-1,-1
+2067,E,F,Rock'n'Roll-Main Class Free Style,Final - Acrobatic,4,172,5,-67.5,2.5,3.75,4,0,0,171,CO,1,1.5,1.5,0,0,0,0,0,0,-1,-1
